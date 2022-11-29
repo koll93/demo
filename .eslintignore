@@ -1,0 +1,12 @@
+/dist
+/src-bex/www
+/src-capacitor
+/src-cordova
+/.quasar
+/node_modules
+.eslintrc.js
+/src-ssr
+/src/store
+/src/assets
+/src/boot
+src/shims-vue.d.ts

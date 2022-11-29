@@ -1,0 +1,20 @@
+// app global css in SCSS form
+@import "Inter";
+@import "variable";
+
+.second-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
+  margin-right: 23px;
+}
+
+* {
+  font-family: 'Inter', serif;
+}
+
+.color-default-text {
+  color: $color-default-text;
+}
+
